@@ -1,0 +1,17 @@
+{
+  "bg_color": "#1F2421",
+  "button_color_1": "#49A078",
+  "button_color_2": "#216869",
+  "button_color_3": "#CC3F0C",
+  "accent_color_1": "#216869",
+  "accent_color_2": "#49A078",
+  "highlight_color": "#DCE1DE",
+  "font_size": 12,
+  "font_name": "Montserrat",
+  "font_color_light": "#DCE1DE",
+  "font_color_dark": "#1f2421",
+  "block_color": "#9CC5A1",
+  "todo_color": "#DCE1DE",
+  "in_progress_color": "#9CC5A1",
+  "done_color": "#49A078"
+}

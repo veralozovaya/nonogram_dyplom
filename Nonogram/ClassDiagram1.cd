@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Nonogram.Calculation">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAhAEAAAAAAAIABAAIEAAAAAAAAACAAQAgAAAAA=</HashCode>
+      <FileName>Calculation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nonogram.Counter">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Counter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nonogram.gameForm">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBABEAATqQEggAIADAYAACIEGERANAEABQAKQAMAA=</HashCode>
+      <FileName>gameForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nonogram.levelMenu">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAADAQMgAAAAGAAAACAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>levelMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nonogram.mainMenu">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADAAEBAIAADAAAICACA4AAAAAXAAAAQCAAA=</HashCode>
+      <FileName>mainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nonogram.NonogramData">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAAAEAQAAAIAIFAAAAAAAAgAJAAGABAAQAAAAA=</HashCode>
+      <FileName>NonogramData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nonogram.Settings">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAUAADAAGAAwAACAAAAGAECAiABAAAAACQAAAAA=</HashCode>
+      <FileName>Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nonogram.SettingsData">
+    <Position X="8" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAIEAAAAgAFAAACAAAAAAEA=</HashCode>
+      <FileName>SettingsData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nonogram.Stats">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8AAAAAAAADAAEBQAAACAAAAiAACIAgAAAEAAAAQIBQA=</HashCode>
+      <FileName>Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nonogram.ThemeData">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgBAAQAAQAAQAOAEAAAAAgAAkEAAAAAIGAAg=</HashCode>
+      <FileName>ThemeData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nonogram.UserData">
+    <Position X="11.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkBAAAAAgAAAAAAAAAAAAIAEAAEAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>UserData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
